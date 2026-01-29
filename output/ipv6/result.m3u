@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/Cx4x/xdd/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-29 18:38:28
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-30 02:48:26
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1583,6 +1583,10 @@ http://2099.tv12.xyz/416_1764160385192.m3u8
 http://2099.tv12.xyz/416_1764174025710.m3u8
 #EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV电视指南.png" group-title="🔆高清频道🔆",CCTV电视指南
 http://www.xiaomo520.cn:4020/udp/239.252.219.97:5140
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV电视指南.png" group-title="🔆高清频道🔆",CCTV电视指南
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV电视指南.png" group-title="🔆高清频道🔆",CCTV电视指南
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV第一剧场.png" group-title="🔆高清频道🔆",CCTV第一剧场
 http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV第一剧场.png" group-title="🔆高清频道🔆",CCTV第一剧场
