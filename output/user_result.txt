@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-20 18:38:35,http://171.83.103.119:9999/rtp/239.254.96.96:8550
+2026-03-21 02:51:25,http://171.83.103.119:9999/rtp/239.254.96.96:8550
 
 🔆央视频道🔆,#genre#
 CCTV-1,http://171.83.103.119:9999/rtp/239.254.96.96:8550
@@ -44,12 +44,12 @@ CCTV-4,http://k.061899.xyz/m.php?id=cctv4
 CCTV-4,http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
 CCTV-4,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8?servicetype=1
 CCTV-4,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1
-CCTV-5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=7
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
+CCTV-5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=7
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
@@ -95,8 +95,8 @@ CCTV-7,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8?
 CCTV-7,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1
 CCTV-7,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-7/1.m3u8
 CCTV-7,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
-CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
+CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-8,http://171.83.103.119:9999/rtp/239.69.1.125:10388
 CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
@@ -156,8 +156,8 @@ CCTV-12,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8
 CCTV-12,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1
 CCTV-12,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-12/1.m3u8
 CCTV-12,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
-CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-13,http://107.150.60.122/live/cctv13hd.m3u8
+CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-13,http://171.83.103.119:9999/rtp/239.254.96.161:9040
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
@@ -409,7 +409,6 @@ CCTV-8K,http://2099.tv12.xyz/6_1764915799815.m3u8
 贵州卫视,http://k.061899.xyz/m.php?id=gzws
 贵州卫视,http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
 贵州卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1
-海南卫视,http://171.83.103.119:9999/rtp/239.69.1.151:10542
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
 海南卫视,http://j.x.bkpcp.top/jx/HAINHD
