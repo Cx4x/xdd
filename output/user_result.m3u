@@ -1,10 +1,14 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/Cx4x/xdd/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-09 03:19:03
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-09 13:51:26
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV-1
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV-1
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV-1
+http://182.114.48.133:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV-1
+http://125.42.148.129:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV-1
@@ -27,6 +31,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227209/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="🔆央视频道🔆",CCTV-2
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="🔆央视频道🔆",CCTV-2
+http://182.114.48.133:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="🔆央视频道🔆",CCTV-2
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="🔆央视频道🔆",CCTV-2
@@ -52,6 +58,10 @@ https://iptv.catvod.com/live.php?id=CCTV3&line=8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="🔆央视频道🔆",CCTV-3
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV3
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="🔆央视频道🔆",CCTV-3
+http://125.42.148.129:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="🔆央视频道🔆",CCTV-3
+http://182.114.48.133:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="🔆央视频道🔆",CCTV-3
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="🔆央视频道🔆",CCTV-3
 https://live.chinacert.cftest5.cn/mg/?id=624878271
@@ -76,6 +86,8 @@ https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=4
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="🔆央视频道🔆",CCTV-4
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV4
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="🔆央视频道🔆",CCTV-4
+http://182.114.48.133:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="🔆央视频道🔆",CCTV-4
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="🔆央视频道🔆",CCTV-4
 http://z.b.bkpcp.top/m.php?id=CCTV-4国际
@@ -96,17 +108,19 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8?service
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="🔆央视频道🔆",CCTV-4
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🔆央视频道🔆",CCTV-5
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+https://iptv.catvod.com/live.php?id=CCTV5&line=15
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🔆央视频道🔆",CCTV-5
 https://iptv.catvod.com/live.php?id=CCTV5&line=14
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🔆央视频道🔆",CCTV-5
-https://iptv.catvod.com/live.php?id=CCTV5&line=15
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🔆央视频道🔆",CCTV-5
 https://iptv.catvod.com/live.php?id=CCTV5&line=13
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🔆央视频道🔆",CCTV-5
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🔆央视频道🔆",CCTV-5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🔆央视频道🔆",CCTV-5
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🔆央视频道🔆",CCTV-5
+http://182.114.48.133:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🔆央视频道🔆",CCTV-5
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🔆央视频道🔆",CCTV-5
@@ -156,6 +170,8 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="🔆央视频道🔆",CCTV-6
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="🔆央视频道🔆",CCTV-6
+http://182.114.48.133:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="🔆央视频道🔆",CCTV-6
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="🔆央视频道🔆",CCTV-6
 https://live.chinacert.cftest5.cn/mg/?id=624878396
@@ -180,6 +196,8 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="🔆央视频道🔆",CCTV-7
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV7
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="🔆央视频道🔆",CCTV-7
+http://182.114.48.133:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="🔆央视频道🔆",CCTV-7
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="🔆央视频道🔆",CCTV-7
 http://goo.bkpcp.top/mg/CCTV7
@@ -200,15 +218,15 @@ http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-7/1.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="🔆央视频道🔆",CCTV-7
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="🔆央视频道🔆",CCTV-8
-http://107.150.60.122/live/cctv8k.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="🔆央视频道🔆",CCTV-8
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="🔆央视频道🔆",CCTV-8
 https://iptv.catvod.com/live.php?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=2
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="🔆央视频道🔆",CCTV-8
 https://iptv.catvod.com/live.php?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="🔆央视频道🔆",CCTV-8
-http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="🔆央视频道🔆",CCTV-8
+http://107.150.60.122/live/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="🔆央视频道🔆",CCTV-8
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="🔆央视频道🔆",CCTV-8
@@ -232,11 +250,13 @@ http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-8/1.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="🔆央视频道🔆",CCTV-8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227327/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="🔆央视频道🔆",CCTV-9
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+https://iptv.catvod.com/live.php?id=CCTV9&line=12
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="🔆央视频道🔆",CCTV-9
 https://iptv.catvod.com/live.php?id=CCTV9&line=11
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="🔆央视频道🔆",CCTV-9
-https://iptv.catvod.com/live.php?id=CCTV9&line=12
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="🔆央视频道🔆",CCTV-9
+http://125.42.148.129:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="🔆央视频道🔆",CCTV-9
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="🔆央视频道🔆",CCTV-9
@@ -258,21 +278,19 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="🔆央视频道🔆",CCTV-9
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226174/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226734/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227337/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
+https://iptv.catvod.com/catvod?id=CCTV10&line=5
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
+https://iptv.catvod.com/catvod?id=CCTV10&line=7
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
+https://iptv.catvod.com/catvod?id=CCTV10&line=4
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
 https://iptv.catvod.com/catvod?id=CCTV10&line=3
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
 https://iptv.catvod.com/catvod?id=CCTV10&line=2
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
-https://iptv.catvod.com/catvod?id=CCTV10&line=4
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
-https://iptv.catvod.com/catvod?id=CCTV10&line=5
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
-https://iptv.catvod.com/catvod?id=CCTV10&line=8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV10
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
-https://iptv.catvod.com/catvod?id=CCTV10&line=7
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
 http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="🔆央视频道🔆",CCTV-10
@@ -318,6 +336,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226753/index.m3u8#http://hwot
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🔆央视频道🔆",CCTV-12
 http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🔆央视频道🔆",CCTV-12
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🔆央视频道🔆",CCTV-12
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="🔆央视频道🔆",CCTV-12
 http://z.b.bkpcp.top/m.php?id=CCTV-12社会与法社会与法
@@ -340,9 +360,9 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="🔆央视频道🔆",CCTV-13
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="🔆央视频道🔆",CCTV-13
-http://107.150.60.122/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="🔆央视频道🔆",CCTV-13
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="🔆央视频道🔆",CCTV-13
+http://107.150.60.122/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="🔆央视频道🔆",CCTV-13
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV13
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="🔆央视频道🔆",CCTV-13
@@ -370,6 +390,8 @@ http://221.13.235.4:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🔆央视频道🔆",CCTV-14
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV14
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🔆央视频道🔆",CCTV-14
+http://125.42.148.129:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🔆央视频道🔆",CCTV-14
 https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=:20240213104135
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🔆央视频道🔆",CCTV-14
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
@@ -390,11 +412,13 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index.m3u8?service
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="🔆央视频道🔆",CCTV-14
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-14/1.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🔆央视频道🔆",CCTV-15
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🔆央视频道🔆",CCTV-15
 http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🔆央视频道🔆",CCTV-15
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🔆央视频道🔆",CCTV-15
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🔆央视频道🔆",CCTV-15
+http://125.42.148.129:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🔆央视频道🔆",CCTV-15
 https://live.chinacert.cftest5.cn/mg/?id=673168223
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🔆央视频道🔆",CCTV-15
@@ -416,9 +440,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226796/index.m3u8#http://hwot
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🔆央视频道🔆",CCTV-15
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226180/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="🔆央视频道🔆",CCTV-16
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="🔆央视频道🔆",CCTV-16
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="🔆央视频道🔆",CCTV-16
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="🔆央视频道🔆",CCTV-16
 http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV16
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="🔆央视频道🔆",CCTV-16
@@ -546,9 +570,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225928/index.m3u8?service
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="🔆卫视频道🔆",浙江卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225731/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="🔆卫视频道🔆",湖南卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="🔆卫视频道🔆",湖南卫视
 http://107.150.60.122/live/hnwshd.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="🔆卫视频道🔆",湖南卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="🔆卫视频道🔆",湖南卫视
 http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="🔆卫视频道🔆",湖南卫视
@@ -696,9 +720,9 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225745/index.m3u8?service
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="🔆卫视频道🔆",重庆卫视
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/chongqingstv/1.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="🔆卫视频道🔆",广东卫视
-http://107.150.60.122/live/gdwshd.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="🔆卫视频道🔆",广东卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="🔆卫视频道🔆",广东卫视
+http://107.150.60.122/live/gdwshd.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="🔆卫视频道🔆",广东卫视
 http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="🔆卫视频道🔆",广东卫视
@@ -863,6 +887,8 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225713/1/index.m3u8?fmt=t
 http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🔆卫视频道🔆",河南卫视
 http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🔆卫视频道🔆",河南卫视
+http://125.42.148.129:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🔆卫视频道🔆",河南卫视
 http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="🔆卫视频道🔆",河南卫视
@@ -2189,6 +2215,8 @@ http://gslbmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=2
 http://gslbmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=2025111018003206388a53db914157840f2916d735c335&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20251110180032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=106.13.250.83&SecurityKey=20251110180032&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=bb3127ba23bd1dd52ac94df7120c7880&ddCalcu=0b8be831714c20072b1a72f3db4d91cdad25
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/发现之旅.png" group-title="🔆高清频道🔆",发现之旅
 http://gslbmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=20251110160036e501c502c0944d7ab741150a76aec5bc&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20251110160036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=106.13.250.89&SecurityKey=20251110160036&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=dd501c2aa9c79fb10859955f77a9c440&ddCalcu=0d4de451c04910ac727afa595c97995f8b01
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中学生.png" group-title="🔆高清频道🔆",中学生
+https://iptv.catvod.com/catvod?id=%E4%B8%AD%E5%AD%A6%E7%94%9F&line=1
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中学生.png" group-title="🔆高清频道🔆",中学生
 https://migu.pl10000.top/-2
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中学生.png" group-title="🔆高清频道🔆",中学生
