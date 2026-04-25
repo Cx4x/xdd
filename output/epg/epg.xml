@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260425054955 +0800">
+<tv date="20260425104411 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8853,14 +8853,14 @@
 	<programme channel="CCTV-4" start="20260426235600 +0800" stop="20260427000000 +0800">
 		<title lang="zh">风雨送春归19/40</title>
 	</programme>
-	<programme channel="CCTV-4" start="20260427000000 +0800" stop="20260427004200 +0800">
-		<title lang="zh">风雨送春归(19)</title>
+	<programme channel="CCTV-4" start="20260427000000 +0800" stop="20260427001700 +0800">
+		<title lang="zh">海峡两岸</title>
 	</programme>
-	<programme channel="CCTV-4" start="20260427004200 +0800" stop="20260427012800 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="CCTV-4" start="20260427001700 +0800" stop="20260427011600 +0800">
+		<title lang="zh">中国文艺</title>
 	</programme>
-	<programme channel="CCTV-4" start="20260427012800 +0800" stop="20260427015600 +0800">
-		<title lang="zh">中国缘</title>
+	<programme channel="CCTV-4" start="20260427011600 +0800" stop="20260427014500 +0800">
+		<title lang="zh">华人故事</title>
 	</programme>
 	<channel id="CCTV-4K">
 		<display-name lang="zh">CCTV-4K</display-name>
@@ -18366,6 +18366,9 @@
 	<programme channel="乐游" start="20260426012400 +0800" stop="20260426014800 +0800">
 		<title lang="zh">味道中山(1):捕捞美味</title>
 	</programme>
+	<programme channel="乐游" start="20260426012400 +0800" stop="20260426014800 +0800">
+		<title lang="zh">味道中山(1):捕捞美味</title>
+	</programme>
 	<programme channel="乐游" start="20260426014800 +0800" stop="20260426015100 +0800">
 		<title lang="zh">城市推荐官(18):泗泾慢生活</title>
 	</programme>
@@ -18384,152 +18387,257 @@
 	<programme channel="乐游" start="20260426022500 +0800" stop="20260426024900 +0800">
 		<title lang="zh">指尖上的传承:长白仙草</title>
 	</programme>
-	<programme channel="乐游" start="20260426024900 +0800" stop="20260426025400 +0800">
+	<programme channel="乐游" start="20260426024900 +0800" stop="20260426025600 +0800">
 		<title lang="zh">海派百工(13):帛画</title>
 	</programme>
-	<programme channel="乐游" start="20260426025400 +0800" stop="20260426025700 +0800">
-		<title lang="zh">乐游上海:春天的樱花</title>
-	</programme>
-	<programme channel="乐游" start="20260426025700 +0800" stop="20260426033500 +0800">
+	<programme channel="乐游" start="20260426025600 +0800" stop="20260426033400 +0800">
 		<title lang="zh">大河之北Ⅱ(2):避暑山庄</title>
 	</programme>
-	<programme channel="乐游" start="20260426033500 +0800" stop="20260426034100 +0800">
+	<programme channel="乐游" start="20260426033400 +0800" stop="20260426034000 +0800">
 		<title lang="zh">长城我们的故事:长城脚下我的家</title>
 	</programme>
-	<programme channel="乐游" start="20260426034100 +0800" stop="20260426035000 +0800">
+	<programme channel="乐游" start="20260426034000 +0800" stop="20260426034900 +0800">
 		<title lang="zh">盛世芳华(28)</title>
 	</programme>
-	<programme channel="乐游" start="20260426035000 +0800" stop="20260426035200 +0800">
+	<programme channel="乐游" start="20260426034900 +0800" stop="20260426035000 +0800">
 		<title lang="zh">乐游上海:黄浦春日漫游记</title>
 	</programme>
-	<programme channel="乐游" start="20260426035200 +0800" stop="20260426035600 +0800">
+	<programme channel="乐游" start="20260426035000 +0800" stop="20260426035500 +0800">
 		<title lang="zh">乐游青浦:318国道青浦段</title>
 	</programme>
-	<programme channel="乐游" start="20260426035600 +0800" stop="20260426041900 +0800">
+	<programme channel="乐游" start="20260426035500 +0800" stop="20260426041800 +0800">
 		<title lang="zh">极限冰岛(1)</title>
 	</programme>
-	<programme channel="乐游" start="20260426041900 +0800" stop="20260426042100 +0800">
+	<programme channel="乐游" start="20260426041800 +0800" stop="20260426042000 +0800">
 		<title lang="zh">乐游黄浦:春日浪漫之旅</title>
 	</programme>
-	<programme channel="乐游" start="20260426042100 +0800" stop="20260426044500 +0800">
+	<programme channel="乐游" start="20260426042000 +0800" stop="20260426044300 +0800">
 		<title lang="zh">味道中山(2):山林食谱</title>
 	</programme>
-	<programme channel="乐游" start="20260426044500 +0800" stop="20260426044800 +0800">
+	<programme channel="乐游" start="20260426044300 +0800" stop="20260426044600 +0800">
 		<title lang="zh">城市推荐官(19):泗泾最文艺</title>
 	</programme>
-	<programme channel="乐游" start="20260426044800 +0800" stop="20260426045000 +0800">
+	<programme channel="乐游" start="20260426044600 +0800" stop="20260426044800 +0800">
 		<title lang="zh">一碗人间烟火(19):红烧𫚔鱼</title>
 	</programme>
-	<programme channel="乐游" start="20260426045000 +0800" stop="20260426051500 +0800">
+	<programme channel="乐游" start="20260426044800 +0800" stop="20260426051400 +0800">
 		<title lang="zh">城市烟火(2):河海之鲜</title>
 	</programme>
-	<programme channel="乐游" start="20260426051500 +0800" stop="20260426051600 +0800">
+	<programme channel="乐游" start="20260426051400 +0800" stop="20260426051500 +0800">
 		<title lang="zh">一碗人间烟火(21):黑松露炒虾球</title>
 	</programme>
-	<programme channel="乐游" start="20260426051600 +0800" stop="20260426052000 +0800">
-		<title lang="zh">乐游长宁:何以爱长宁巴士微旅行</title>
-	</programme>
-	<programme channel="乐游" start="20260426052000 +0800" stop="20260426052200 +0800">
+	<programme channel="乐游" start="20260426051500 +0800" stop="20260426051700 +0800">
 		<title lang="zh">乐游上海</title>
 	</programme>
-	<programme channel="乐游" start="20260426052200 +0800" stop="20260426054600 +0800">
+	<programme channel="乐游" start="20260426051700 +0800" stop="20260426054200 +0800">
 		<title lang="zh">指尖上的传承:侗族大歌</title>
 	</programme>
-	<programme channel="乐游" start="20260426054600 +0800" stop="20260426055300 +0800">
+	<programme channel="乐游" start="20260426054200 +0800" stop="20260426054900 +0800">
 		<title lang="zh">海派百工(14):琵琶制作技艺</title>
 	</programme>
-	<programme channel="乐游" start="20260426055300 +0800" stop="20260426063100 +0800">
+	<programme channel="乐游" start="20260426054900 +0800" stop="20260426062600 +0800">
 		<title lang="zh">大河之北Ⅱ(3):外八庙</title>
 	</programme>
-	<programme channel="乐游" start="20260426063100 +0800" stop="20260426063900 +0800">
+	<programme channel="乐游" start="20260426062600 +0800" stop="20260426063400 +0800">
 		<title lang="zh">长城我们的故事(6):长城长又长</title>
 	</programme>
-	<programme channel="乐游" start="20260426063900 +0800" stop="20260426064500 +0800">
+	<programme channel="乐游" start="20260426063400 +0800" stop="20260426064000 +0800">
 		<title lang="zh">盛世芳华(29)</title>
 	</programme>
-	<programme channel="乐游" start="20260426064500 +0800" stop="20260426064900 +0800">
+	<programme channel="乐游" start="20260426064000 +0800" stop="20260426064400 +0800">
 		<title lang="zh">乐游松江:松江人民向往的新城</title>
 	</programme>
-	<programme channel="乐游" start="20260426064900 +0800" stop="20260426065200 +0800">
+	<programme channel="乐游" start="20260426064400 +0800" stop="20260426064700 +0800">
 		<title lang="zh">乐游上海:黄浦春日漫游记</title>
 	</programme>
-	<programme channel="乐游" start="20260426065200 +0800" stop="20260426071500 +0800">
+	<programme channel="乐游" start="20260426064700 +0800" stop="20260426071000 +0800">
 		<title lang="zh">极限冰岛(2)</title>
 	</programme>
-	<programme channel="乐游" start="20260426071500 +0800" stop="20260426071700 +0800">
+	<programme channel="乐游" start="20260426071000 +0800" stop="20260426071200 +0800">
 		<title lang="zh">乐游黄浦:春日浪漫之旅</title>
 	</programme>
-	<programme channel="乐游" start="20260426071700 +0800" stop="20260426074000 +0800">
+	<programme channel="乐游" start="20260426071200 +0800" stop="20260426073500 +0800">
 		<title lang="zh">味道中山(3):早餐诱惑</title>
 	</programme>
-	<programme channel="乐游" start="20260426074000 +0800" stop="20260426074400 +0800">
+	<programme channel="乐游" start="20260426073500 +0800" stop="20260426073900 +0800">
 		<title lang="zh">城市推荐官(20):上生新所</title>
 	</programme>
-	<programme channel="乐游" start="20260426074400 +0800" stop="20260426074600 +0800">
+	<programme channel="乐游" start="20260426073900 +0800" stop="20260426074100 +0800">
 		<title lang="zh">一碗人间烟火(22):猪肚鸡</title>
 	</programme>
-	<programme channel="乐游" start="20260426074600 +0800" stop="20260426081300 +0800">
+	<programme channel="乐游" start="20260426074100 +0800" stop="20260426080900 +0800">
 		<title lang="zh">城市烟火(3):无辣不欢</title>
 	</programme>
-	<programme channel="乐游" start="20260426081300 +0800" stop="20260426081500 +0800">
+	<programme channel="乐游" start="20260426080900 +0800" stop="20260426081100 +0800">
 		<title lang="zh">一碗人间烟火(23):百香果柠檬虾</title>
 	</programme>
-	<programme channel="乐游" start="20260426081500 +0800" stop="20260426081700 +0800">
+	<programme channel="乐游" start="20260426081100 +0800" stop="20260426081300 +0800">
 		<title lang="zh">乐游上海</title>
 	</programme>
-	<programme channel="乐游" start="20260426081700 +0800" stop="20260426084400 +0800">
-		<title lang="zh">指尖上的传承:泥人张</title>
+	<programme channel="乐游" start="20260426081300 +0800" stop="20260426084000 +0800">
+		<title lang="zh">寻找目的地:荷德比丹花漾四国</title>
 	</programme>
-	<programme channel="乐游" start="20260426084400 +0800" stop="20260426085000 +0800">
+	<programme channel="乐游" start="20260426084000 +0800" stop="20260426084500 +0800">
 		<title lang="zh">海派百工:曹素功墨锭制作技艺</title>
 	</programme>
-	<programme channel="乐游" start="20260426085000 +0800" stop="20260426092700 +0800">
-		<title lang="zh">大河之北Ⅱ(4):清东陵</title>
+	<programme channel="乐游" start="20260426084500 +0800" stop="20260426090000 +0800">
+		<title lang="zh">寻找目的地</title>
 	</programme>
-	<programme channel="乐游" start="20260426092700 +0800" stop="20260426093500 +0800">
-		<title lang="zh">长城我们的故事(7):一封请愿书</title>
-	</programme>
-	<programme channel="乐游" start="20260426093500 +0800" stop="20260426094300 +0800">
-		<title lang="zh">盛世芳华(1)</title>
-	</programme>
-	<programme channel="乐游" start="20260426094300 +0800" stop="20260426094600 +0800">
-		<title lang="zh">此心安处是吾乡</title>
-	</programme>
-	<programme channel="乐游" start="20260426094600 +0800" stop="20260426094900 +0800">
+	<programme channel="乐游" start="20260426090000 +0800" stop="20260426090100 +0800">
 		<title lang="zh">乐游上海:黄浦春日漫游记</title>
 	</programme>
-	<programme channel="乐游" start="20260426094900 +0800" stop="20260426101000 +0800">
-		<title lang="zh">极限冰岛(3)</title>
+	<programme channel="乐游" start="20260426090100 +0800" stop="20260426093100 +0800">
+		<title lang="zh">寻找目的地:香格里拉秘境之旅</title>
 	</programme>
-	<programme channel="乐游" start="20260426101000 +0800" stop="20260426103400 +0800">
-		<title lang="zh">味道中山(4):季节味道</title>
+	<programme channel="乐游" start="20260426093100 +0800" stop="20260426102400 +0800">
+		<title lang="zh">东购MSC传奇号南欧地中海北非等</title>
 	</programme>
-	<programme channel="乐游" start="20260426103400 +0800" stop="20260426103700 +0800">
-		<title lang="zh">城市推荐官(21):松江小昆山</title>
-	</programme>
-	<programme channel="乐游" start="20260426103700 +0800" stop="20260426103900 +0800">
+	<programme channel="乐游" start="20260426102400 +0800" stop="20260426102600 +0800">
 		<title lang="zh">一碗人间烟火:茶香花椒清酒焗蟹</title>
 	</programme>
-	<programme channel="乐游" start="20260426103900 +0800" stop="20260426110500 +0800">
+	<programme channel="乐游" start="20260426102600 +0800" stop="20260426105200 +0800">
 		<title lang="zh">城市烟火(4):品味中西</title>
 	</programme>
-	<programme channel="乐游" start="20260426110500 +0800" stop="20260426110800 +0800">
-		<title lang="zh">一碗人间烟火:春菜烩小黄鱼卷</title>
-	</programme>
-	<programme channel="乐游" start="20260426110800 +0800" stop="20260426111000 +0800">
+	<programme channel="乐游" start="20260426105200 +0800" stop="20260426105300 +0800">
 		<title lang="zh">乐游上海</title>
 	</programme>
-	<programme channel="乐游" start="20260426111000 +0800" stop="20260426113500 +0800">
-		<title lang="zh">指尖上的传承:玉雕</title>
-	</programme>
-	<programme channel="乐游" start="20260426113500 +0800" stop="20260426114000 +0800">
-		<title lang="zh">海派百工(16):石氏伤科疗法</title>
-	</programme>
-	<programme channel="乐游" start="20260426114000 +0800" stop="20260426114200 +0800">
+	<programme channel="乐游" start="20260426105300 +0800" stop="20260426105500 +0800">
 		<title lang="zh">乐游上海:春天的樱花</title>
 	</programme>
-	<programme channel="乐游" start="20260426114200 +0800" stop="20260426121900 +0800">
+	<programme channel="乐游" start="20260426105500 +0800" stop="20260426113500 +0800">
+		<title lang="zh">金色营养课</title>
+	</programme>
+	<programme channel="乐游" start="20260426113500 +0800" stop="20260426121200 +0800">
 		<title lang="zh">大河之北Ⅱ(5):清西陵</title>
+	</programme>
+	<programme channel="乐游" start="20260426121200 +0800" stop="20260426121700 +0800">
+		<title lang="zh">乐游上海:一盏千秋湖心亭</title>
+	</programme>
+	<programme channel="乐游" start="20260426121700 +0800" stop="20260426124000 +0800">
+		<title lang="zh">寻找目的地:莱茵河欧洲河轮之旅</title>
+	</programme>
+	<programme channel="乐游" start="20260426124000 +0800" stop="20260426124100 +0800">
+		<title lang="zh">乐游上海:黄浦春日漫游记</title>
+	</programme>
+	<programme channel="乐游" start="20260426124100 +0800" stop="20260426130400 +0800">
+		<title lang="zh">寻找目的地</title>
+	</programme>
+	<programme channel="乐游" start="20260426130400 +0800" stop="20260426132400 +0800">
+		<title lang="zh">寻找目的地:北极邮轮</title>
+	</programme>
+	<programme channel="乐游" start="20260426132400 +0800" stop="20260426132600 +0800">
+		<title lang="zh">乐游黄浦:春日浪漫之旅</title>
+	</programme>
+	<programme channel="乐游" start="20260426132600 +0800" stop="20260426134900 +0800">
+		<title lang="zh">味道中山(5):天地农家</title>
+	</programme>
+	<programme channel="乐游" start="20260426134900 +0800" stop="20260426135200 +0800">
+		<title lang="zh">一碗人间烟火:春笋年糕白鲳鱼</title>
+	</programme>
+	<programme channel="乐游" start="20260426135200 +0800" stop="20260426141800 +0800">
+		<title lang="zh">城市烟火(5):一日之始</title>
+	</programme>
+	<programme channel="乐游" start="20260426141800 +0800" stop="20260426142000 +0800">
+		<title lang="zh">一碗人间烟火:奶茶新西兰青口贝</title>
+	</programme>
+	<programme channel="乐游" start="20260426142000 +0800" stop="20260426144500 +0800">
+		<title lang="zh">指尖上的传承:金漆木雕</title>
+	</programme>
+	<programme channel="乐游" start="20260426144500 +0800" stop="20260426152300 +0800">
+		<title lang="zh">大河之北Ⅱ(6):大运河</title>
+	</programme>
+	<programme channel="乐游" start="20260426152300 +0800" stop="20260426153200 +0800">
+		<title lang="zh">长城我们的故事(9):法理之内</title>
+	</programme>
+	<programme channel="乐游" start="20260426153200 +0800" stop="20260426160000 +0800">
+		<title lang="zh">寻找目的地:北欧四国双峡湾塔林</title>
+	</programme>
+	<programme channel="乐游" start="20260426160000 +0800" stop="20260426160200 +0800">
+		<title lang="zh">乐游黄浦:春日浪漫之旅</title>
+	</programme>
+	<programme channel="乐游" start="20260426160200 +0800" stop="20260426162500 +0800">
+		<title lang="zh">味道中山(6):鱼米之乡</title>
+	</programme>
+	<programme channel="乐游" start="20260426162500 +0800" stop="20260426162900 +0800">
+		<title lang="zh">城市推荐官(23):龙华</title>
+	</programme>
+	<programme channel="乐游" start="20260426162900 +0800" stop="20260426164800 +0800">
+		<title lang="zh">寻找目的地</title>
+	</programme>
+	<programme channel="乐游" start="20260426164800 +0800" stop="20260426165100 +0800">
+		<title lang="zh">一碗人间烟火:鲜鲍五花肉大粽</title>
+	</programme>
+	<programme channel="乐游" start="20260426165100 +0800" stop="20260426171000 +0800">
+		<title lang="zh">寻找目的地:魅力南欧阳光西葡</title>
+	</programme>
+	<programme channel="乐游" start="20260426171000 +0800" stop="20260426173800 +0800">
+		<title lang="zh">城市烟火(6):对月围炉</title>
+	</programme>
+	<programme channel="乐游" start="20260426173800 +0800" stop="20260426174100 +0800">
+		<title lang="zh">一碗人间烟火(29):香椿酿荷包</title>
+	</programme>
+	<programme channel="乐游" start="20260426174100 +0800" stop="20260426174200 +0800">
+		<title lang="zh">乐游上海</title>
+	</programme>
+	<programme channel="乐游" start="20260426174200 +0800" stop="20260426180700 +0800">
+		<title lang="zh">上海奶业百年(1):牧场溯源</title>
+	</programme>
+	<programme channel="乐游" start="20260426180700 +0800" stop="20260426183200 +0800">
+		<title lang="zh">上海奶业百年(2):工业浪潮</title>
+	</programme>
+	<programme channel="乐游" start="20260426183200 +0800" stop="20260426184200 +0800">
+		<title lang="zh">长城我们的故事(10):长城解语者</title>
+	</programme>
+	<programme channel="乐游" start="20260426184200 +0800" stop="20260426190400 +0800">
+		<title lang="zh">极限冰岛(6)</title>
+	</programme>
+	<programme channel="乐游" start="20260426190400 +0800" stop="20260426191900 +0800">
+		<title lang="zh">川味Ⅰ(1):麻婆豆腐</title>
+	</programme>
+	<programme channel="乐游" start="20260426191900 +0800" stop="20260426195900 +0800">
+		<title lang="zh">金色营养课</title>
+	</programme>
+	<programme channel="乐游" start="20260426195900 +0800" stop="20260426204900 +0800">
+		<title lang="zh">东购新加坡马来西亚6天品质游</title>
+	</programme>
+	<programme channel="乐游" start="20260426204900 +0800" stop="20260426205100 +0800">
+		<title lang="zh">乐游上海</title>
+	</programme>
+	<programme channel="乐游" start="20260426205100 +0800" stop="20260426205600 +0800">
+		<title lang="zh">海派百工(20)</title>
+	</programme>
+	<programme channel="乐游" start="20260426205600 +0800" stop="20260426205800 +0800">
+		<title lang="zh">乐游上海:春天的樱花</title>
+	</programme>
+	<programme channel="乐游" start="20260426205800 +0800" stop="20260426212300 +0800">
+		<title lang="zh">上海奶业百年(3):细菌战役</title>
+	</programme>
+	<programme channel="乐游" start="20260426212300 +0800" stop="20260426212900 +0800">
+		<title lang="zh">长城我们的故事(11):虚实之间</title>
+	</programme>
+	<programme channel="乐游" start="20260426212900 +0800" stop="20260426214800 +0800">
+		<title lang="zh">寻找目的地:巴尔干免签四国</title>
+	</programme>
+	<programme channel="乐游" start="20260426214800 +0800" stop="20260426221600 +0800">
+		<title lang="zh">寻找目的地</title>
+	</programme>
+	<programme channel="乐游" start="20260426221600 +0800" stop="20260426223100 +0800">
+		<title lang="zh">川味Ⅰ(1):麻婆豆腐</title>
+	</programme>
+	<programme channel="乐游" start="20260426223100 +0800" stop="20260426225900 +0800">
+		<title lang="zh">城市烟火(7):人生一串</title>
+	</programme>
+	<programme channel="乐游" start="20260426225900 +0800" stop="20260426230100 +0800">
+		<title lang="zh">乐游上海</title>
+	</programme>
+	<programme channel="乐游" start="20260426230100 +0800" stop="20260426232600 +0800">
+		<title lang="zh">上海奶业百年(3):细菌战役</title>
+	</programme>
+	<programme channel="乐游" start="20260426232600 +0800" stop="20260426235100 +0800">
+		<title lang="zh">上海奶业百年(5):时代变身</title>
+	</programme>
+	<programme channel="乐游" start="20260426235100 +0800" stop="20260427000000 +0800">
+		<title lang="zh">长城我们的故事(11):虚实之间</title>
 	</programme>
 	<programme channel="乐游" start="20260427000000 +0800" stop="20260427002200 +0800">
 		<title lang="zh">上海非遗:周虎臣毛笔</title>
@@ -32745,72 +32853,6 @@
 	<programme channel="求索频道" start="20260424231000 +0800" stop="20260425000000 +0800">
 		<title lang="zh">极速狂飙翻新车8（28）</title>
 	</programme>
-	<programme channel="求索频道" start="20260425000000 +0800" stop="20260425000500 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20260425000500 +0800" stop="20260425003000 +0800">
-		<title lang="zh">千万工程1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260425003000 +0800" stop="20260425005500 +0800">
-		<title lang="zh">千万工程1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260425005500 +0800" stop="20260425012000 +0800">
-		<title lang="zh">千万工程1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260425012000 +0800" stop="20260425014500 +0800">
-		<title lang="zh">千万工程1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260425014500 +0800" stop="20260425021000 +0800">
-		<title lang="zh">千万工程1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260425021000 +0800" stop="20260425023500 +0800">
-		<title lang="zh">耕海&amp;我的幸运&amp;四时城纪夏、秋�...</title>
-	</programme>
-	<programme channel="求索频道" start="20260425023500 +0800" stop="20260425030000 +0800">
-		<title lang="zh">耕海&amp;我的幸运&amp;四时城纪夏、秋�...</title>
-	</programme>
-	<programme channel="求索频道" start="20260425030000 +0800" stop="20260425032500 +0800">
-		<title lang="zh">耕海&amp;我的幸运&amp;四时城纪夏、秋�...</title>
-	</programme>
-	<programme channel="求索频道" start="20260425032500 +0800" stop="20260425033000 +0800">
-		<title lang="zh">耕海&amp;我的幸运&amp;四时城纪夏、秋�...</title>
-	</programme>
-	<programme channel="求索频道" start="20260425033000 +0800" stop="20260425035500 +0800">
-		<title lang="zh">耕海&amp;我的幸运&amp;四时城纪夏、秋�...</title>
-	</programme>
-	<programme channel="求索频道" start="20260425035500 +0800" stop="20260425042000 +0800">
-		<title lang="zh">袖珍妈妈圆梦记&amp;廊桥的孩子</title>
-	</programme>
-	<programme channel="求索频道" start="20260425042000 +0800" stop="20260425044500 +0800">
-		<title lang="zh">袖珍妈妈圆梦记&amp;廊桥的孩子</title>
-	</programme>
-	<programme channel="求索频道" start="20260425044500 +0800" stop="20260425051000 +0800">
-		<title lang="zh">让蜂飞&amp;新杭·穿阅记&amp;复原德寿宫</title>
-	</programme>
-	<programme channel="求索频道" start="20260425051000 +0800" stop="20260425053500 +0800">
-		<title lang="zh">让蜂飞&amp;新杭·穿阅记&amp;复原德寿宫</title>
-	</programme>
-	<programme channel="求索频道" start="20260425053500 +0800" stop="20260425060000 +0800">
-		<title lang="zh">让蜂飞&amp;新杭·穿阅记&amp;复原德寿宫</title>
-	</programme>
-	<programme channel="求索频道" start="20260425060000 +0800" stop="20260425060500 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20260425060500 +0800" stop="20260425065500 +0800">
-		<title lang="zh">城堡的奥秘3-4（13）</title>
-	</programme>
-	<programme channel="求索频道" start="20260425065500 +0800" stop="20260425074500 +0800">
-		<title lang="zh">鲨的回归：双霸争锋</title>
-	</programme>
-	<programme channel="求索频道" start="20260425074500 +0800" stop="20260425083500 +0800">
-		<title lang="zh">未知谜团探险队1</title>
-	</programme>
-	<programme channel="求索频道" start="20260425083500 +0800" stop="20260425092500 +0800">
-		<title lang="zh">科技男异世界4-2</title>
-	</programme>
-	<programme channel="求索频道" start="20260425092500 +0800" stop="20260425093000 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
 	<programme channel="求索频道" start="20260425093000 +0800" stop="20260425102000 +0800">
 		<title lang="zh">甄文达的亚洲最爱美食2-1&amp;2-2</title>
 	</programme>
@@ -32873,6 +32915,135 @@
 	</programme>
 	<programme channel="求索频道" start="20260425231000 +0800" stop="20260426000000 +0800">
 		<title lang="zh">经典车在古巴3</title>
+	</programme>
+	<programme channel="求索频道" start="20260426000000 +0800" stop="20260426000500 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260426000500 +0800" stop="20260426003000 +0800">
+		<title lang="zh">我与大运河1</title>
+	</programme>
+	<programme channel="求索频道" start="20260426003000 +0800" stop="20260426005500 +0800">
+		<title lang="zh">我与大运河2</title>
+	</programme>
+	<programme channel="求索频道" start="20260426005500 +0800" stop="20260426012000 +0800">
+		<title lang="zh">我与大运河3</title>
+	</programme>
+	<programme channel="求索频道" start="20260426012000 +0800" stop="20260426014500 +0800">
+		<title lang="zh">我与大运河4</title>
+	</programme>
+	<programme channel="求索频道" start="20260426014500 +0800" stop="20260426021000 +0800">
+		<title lang="zh">我与大运河5</title>
+	</programme>
+	<programme channel="求索频道" start="20260426021000 +0800" stop="20260426023500 +0800">
+		<title lang="zh">我与大运河6</title>
+	</programme>
+	<programme channel="求索频道" start="20260426023500 +0800" stop="20260426030000 +0800">
+		<title lang="zh">发现南京1</title>
+	</programme>
+	<programme channel="求索频道" start="20260426030000 +0800" stop="20260426032500 +0800">
+		<title lang="zh">发现南京1</title>
+	</programme>
+	<programme channel="求索频道" start="20260426032500 +0800" stop="20260426033000 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260426033000 +0800" stop="20260426035500 +0800">
+		<title lang="zh">发现南京2</title>
+	</programme>
+	<programme channel="求索频道" start="20260426035500 +0800" stop="20260426042000 +0800">
+		<title lang="zh">发现南京2</title>
+	</programme>
+	<programme channel="求索频道" start="20260426042000 +0800" stop="20260426044500 +0800">
+		<title lang="zh">我家城墙五千岁1,2,3</title>
+	</programme>
+	<programme channel="求索频道" start="20260426044500 +0800" stop="20260426051000 +0800">
+		<title lang="zh">我家城墙五千岁1,2,3</title>
+	</programme>
+	<programme channel="求索频道" start="20260426051000 +0800" stop="20260426053500 +0800">
+		<title lang="zh">我家城墙五千岁4,5,6</title>
+	</programme>
+	<programme channel="求索频道" start="20260426053500 +0800" stop="20260426060000 +0800">
+		<title lang="zh">我家城墙五千岁4,5,6</title>
+	</programme>
+	<programme channel="求索频道" start="20260426060000 +0800" stop="20260426060500 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260426060500 +0800" stop="20260426065500 +0800">
+		<title lang="zh">塔可之旅2-3&amp;2-4</title>
+	</programme>
+	<programme channel="求索频道" start="20260426065500 +0800" stop="20260426074500 +0800">
+		<title lang="zh">宠物淘气包3-2</title>
+	</programme>
+	<programme channel="求索频道" start="20260426074500 +0800" stop="20260426083500 +0800">
+		<title lang="zh">锻造师耍大刀4</title>
+	</programme>
+	<programme channel="求索频道" start="20260426083500 +0800" stop="20260426092500 +0800">
+		<title lang="zh">阿拉斯加机械王1</title>
+	</programme>
+	<programme channel="求索频道" start="20260426092500 +0800" stop="20260426093000 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260426093000 +0800" stop="20260426102000 +0800">
+		<title lang="zh">卡津双厨2-1&amp;2-2</title>
+	</programme>
+	<programme channel="求索频道" start="20260426102000 +0800" stop="20260426111000 +0800">
+		<title lang="zh">绝境求生手册4</title>
+	</programme>
+	<programme channel="求索频道" start="20260426111000 +0800" stop="20260426120000 +0800">
+		<title lang="zh">经典车在古巴3</title>
+	</programme>
+	<programme channel="求索频道" start="20260426120000 +0800" stop="20260426120500 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260426120500 +0800" stop="20260426125500 +0800">
+		<title lang="zh">宝物鉴价大师2</title>
+	</programme>
+	<programme channel="求索频道" start="20260426125500 +0800" stop="20260426134500 +0800">
+		<title lang="zh">英国皇家方舟号8</title>
+	</programme>
+	<programme channel="求索频道" start="20260426134500 +0800" stop="20260426143500 +0800">
+		<title lang="zh">蒂凡妮的晚宴2-7&amp;2-8</title>
+	</programme>
+	<programme channel="求索频道" start="20260426143500 +0800" stop="20260426152500 +0800">
+		<title lang="zh">重要的休闲车3-7&amp;3-8</title>
+	</programme>
+	<programme channel="求索频道" start="20260426152500 +0800" stop="20260426153000 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260426153000 +0800" stop="20260426162000 +0800">
+		<title lang="zh">鲨的回归：双霸争锋</title>
+	</programme>
+	<programme channel="求索频道" start="20260426162000 +0800" stop="20260426171000 +0800">
+		<title lang="zh">科技男异世界4-2</title>
+	</programme>
+	<programme channel="求索频道" start="20260426171000 +0800" stop="20260426180000 +0800">
+		<title lang="zh">甄文达的亚洲最爱美食2-1&amp;2-2</title>
+	</programme>
+	<programme channel="求索频道" start="20260426180000 +0800" stop="20260426181000 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260426181000 +0800" stop="20260426190000 +0800">
+		<title lang="zh">空中巨鲨 捍卫战士</title>
+	</programme>
+	<programme channel="求索频道" start="20260426190000 +0800" stop="20260426194500 +0800">
+		<title lang="zh">动物一家亲5（6）</title>
+	</programme>
+	<programme channel="求索频道" start="20260426194500 +0800" stop="20260426203500 +0800">
+		<title lang="zh">暗黑森林6（6）</title>
+	</programme>
+	<programme channel="求索频道" start="20260426203500 +0800" stop="20260426212500 +0800">
+		<title lang="zh">人脑大升级2</title>
+	</programme>
+	<programme channel="求索频道" start="20260426212500 +0800" stop="20260426213000 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260426213000 +0800" stop="20260426222000 +0800">
+		<title lang="zh">餐馆 免下车餐厅和小酒馆27-1&amp;2</title>
+	</programme>
+	<programme channel="求索频道" start="20260426222000 +0800" stop="20260426231000 +0800">
+		<title lang="zh">宝宝震撼弹2-3</title>
+	</programme>
+	<programme channel="求索频道" start="20260426231000 +0800" stop="20260427000000 +0800">
+		<title lang="zh">女子修车手7-3&amp;7-4</title>
 	</programme>
 	<channel id="江苏卫视">
 		<display-name lang="zh">江苏卫视</display-name>
