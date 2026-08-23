@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-08-23 02:33:58,http://c.123.rr.kg/163189/cctv1
+2026-08-23 12:40:56,http://c.123.rr.kg/163189/cctv1
 
 🔆央视频道🔆,#genre#
 CCTV-1,http://c.123.rr.kg/163189/cctv1
-CCTV-1,http://1.83.156.17:8888/rtp/239.109.205.118:8880
 CCTV-1,https://tv123.cc.cd/live.php/?ch=692025e61039
-CCTV-2,http://114.243.99.254:8888/rtp/239.3.1.60:8084
+CCTV-1,http://1.83.156.17:8888/rtp/239.109.205.118:8880
 CCTV-2,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.60:8084
-CCTV-2,http://111.196.134.175:20000/rtp/239.3.1.60:8084
 CCTV-2,https://tv123.cc.cd/live.php/?ch=0c06079e2597
+CCTV-2,http://111.196.134.175:20000/rtp/239.3.1.60:8084
+CCTV-2,http://114.243.99.254:8888/rtp/239.3.1.60:8084
 CCTV-3,http://118.254.148.47:4022/rtp/239.76.246.153:1234
 CCTV-3,https://tv123.cc.cd/live.php/?ch=c52cbeea2598
 CCTV-4,https://tv123.cc.cd/live.php/?ch=8773bd9f1049
@@ -17,21 +17,23 @@ CCTV-5,http://www.sclvip.top:8787/rtp/239.49.8.75:8000
 CCTV-5,http://120.198.95.220:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV-6,http://115.171.216.32:4000/rtp/225.1.8.84:8000
 CCTV-7,http://114.243.99.254:8888/rtp/239.3.1.61:8104
-CCTV-8,http://114.243.99.254:8888/rtp/239.3.1.175:8001
 CCTV-8,http://www.sclvip.top:8787/rtp/239.49.8.77:8000
+CCTV-8,http://114.243.99.254:8888/rtp/239.3.1.175:8001
 CCTV-9,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.62:8112
 CCTV-9,http://114.243.99.254:8888/rtp/239.3.1.62:8112
 CCTV-10,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.63:8116
-CCTV-10,http://114.243.99.254:8888/rtp/239.3.1.63:8116
 CCTV-10,http://114.243.99.254:8888/rtp/239.3.1.86:4120
-CCTV-11,http://114.243.99.254:8888/rtp/239.3.1.152:8120
+CCTV-10,http://114.243.99.254:8888/rtp/239.3.1.63:8116
 CCTV-11,http://1.83.156.17:8888/rtp/239.111.205.11:5140
+CCTV-11,http://114.243.99.254:8888/rtp/239.3.1.152:8120
 CCTV-12,http://115.171.216.32:4000/rtp/225.1.8.12:8124
 CCTV-12,http://home.amucn.net:8800/rtp/239.49.8.55:9822
 CCTV-13,http://111.196.134.175:20000/rtp/239.3.1.124:8128
 CCTV-13,http://114.243.99.254:8888/rtp/239.3.1.124:8128
-CCTV-17,http://home.szjim.top:4000/udp/239.77.1.121:5146
 CCTV-17,http://www.liangcl.top:8686/rtp/233.50.200.113:5140
+CCTV-17,http://home.szjim.top:4000/udp/239.77.1.121:5146
+CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1787482800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0c80eed565a9feefa19ca879d9b2aa7f&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1787475600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-08ef428bf9a841a41e52969d2eff6aad&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 🔆卫视频道🔆,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -46,7 +48,6 @@ CCTV-17,http://www.liangcl.top:8686/rtp/233.50.200.113:5140
 黑龙江卫视,http://114.243.99.254:8888/rtp/239.3.1.133:8016
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-陕西卫视,http://58.63.65.152:8888/rtp/239.77.1.54:5146
 天津卫视,http://115.207.182.178:8889/rtp/233.50.201.104:5140
 西藏卫视,http://111.196.134.175:20000/rtp/239.3.1.166:8188
 云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
@@ -69,14 +70,12 @@ CCTV女性时尚,http://204.12.221.218:8181/3m1080p/nxss.m3u8
 老故事,http://115.171.216.32:4000/rtp/225.1.8.39:8002
 求索频道,http://171.213.242.36:8188/udp/239.93.42.24:5140
 求索频道,http://171.213.237.77:8188/udp/239.93.42.24:5140
-茶频道,http://39.77.22.26:4002/rtp/239.253.254.143:8000
-茶频道,http://39.77.22.4:4002/rtp/239.253.254.143:8000
 茶频道,http://39.77.26.75:4002/rtp/239.253.254.143:8000
-快乐垂钓,http://39.77.22.26:4002/rtp/239.253.254.144:8000
-快乐垂钓,http://39.77.22.4:4002/rtp/239.253.254.144:8000
-快乐垂钓,http://60.4.28.19:8077/rtp/239.253.93.213:6391
-快乐垂钓,http://112.192.72.181:8484/rtp/239.0.0.40:5140
-快乐垂钓,http://112.192.73.5:8484/rtp/239.0.0.40:5140
+茶频道,http://39.77.22.26:4002/rtp/239.253.254.143:8000
 快乐垂钓,http://124.112.189.237:4022/rtp/238.1.79.31:4360
-快乐垂钓,http://121.29.215.140:2083/rtp/239.253.93.213:6391
+快乐垂钓,http://60.4.28.19:8077/rtp/239.253.93.213:6391
+快乐垂钓,http://112.192.73.5:8484/rtp/239.0.0.40:5140
+快乐垂钓,http://112.192.72.181:8484/rtp/239.0.0.40:5140
 快乐垂钓,http://39.77.26.75:4002/rtp/239.253.254.144:8000
+快乐垂钓,http://121.29.215.140:2083/rtp/239.253.93.213:6391
+快乐垂钓,http://39.77.22.26:4002/rtp/239.253.254.144:8000
