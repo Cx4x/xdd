@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/Cx4x/xdd/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-15 22:46:33
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-10-16 05:03:15
 https://tv123.cc.cd/live.php/?ch=692025e61039
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV-1
 https://tv123.cc.cd/live.php/?ch=692025e61039
@@ -69,10 +69,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227333/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227215/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227402/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="🔆央视频道🔆",CCTV-4
 https://tv123.cc.cd/live.php/?ch=8773bd9f1049
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="🔆央视频道🔆",CCTV-4
-http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=7e2b9968cad86e0f
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="🔆央视频道🔆",CCTV-4
-http://159.75.4.149:99/清风/iptv.php?token=fa3b99bb95bdd339eebec0e0cb4904d6&ch=d9df1ec3ee031a8d
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="🔆央视频道🔆",CCTV-4
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="🔆央视频道🔆",CCTV-4
@@ -1370,6 +1366,8 @@ https://live.ottiptv.cc/yy/1353426319
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="🔆影视频道🔆",封神榜
 http://live.ottiptv.cc/huya/20432237
 #EXTINF:-1 tvg-name="西游记" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="🔆影视频道🔆",西游记
+https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+#EXTINF:-1 tvg-name="西游记" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="🔆影视频道🔆",西游记
 http://nn.7x9d.cn/xz/虎牙.php?id=29465860
 #EXTINF:-1 tvg-name="天龙八部" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天龙八部.png" group-title="🔆影视频道🔆",天龙八部
 http://www.clmy.cc:35455/yy/1355067965
@@ -2126,9 +2124,9 @@ http://2099.tv12.xyz/487_1764130928051.m3u8
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="🔆高清频道🔆",兵器科技
 http://2099.tv12.xyz/487_1764160385192.m3u8
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="🔆高清频道🔆",老故事
-http://115.171.216.32:4000/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="🔆高清频道🔆",老故事
 http://115.171.216.23:4000/rtp/225.1.8.39:8002
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="🔆高清频道🔆",老故事
+http://115.171.216.32:4000/rtp/225.1.8.39:8002
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="🔆高清频道🔆",老故事
 https://migu.pl10000.top/
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="🔆高清频道🔆",老故事
@@ -2193,8 +2191,6 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/51/index
 http://171.213.150.59:8188/udp/239.93.42.24:5140
 #EXTINF:-1 tvg-name="求索频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索频道.png" group-title="🔆高清频道🔆",求索频道
 http://171.213.155.85:8188/udp/239.93.42.24:5140
-#EXTINF:-1 tvg-name="求索频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索频道.png" group-title="🔆高清频道🔆",求索频道
-http://171.213.154.68:8188/udp/239.93.42.24:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🔆高清频道🔆",都市剧场
 http://3501776.xyz:35455/itv/5000000011000031111.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🔆高清频道🔆",都市剧场
