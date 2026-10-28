@@ -1,39 +1,39 @@
 🕘️更新时间,#genre#
-2026-10-28 18:28:16,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.60:8084
+2026-10-29 06:19:51,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.60:8084
 
 🔆央视频道🔆,#genre#
 CCTV-2,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.60:8084
 CCTV-3,http://173.208.234.146/live/cctv3.m3u8
+CCTV-4,http://173.208.234.146/live/cctv4.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4k.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4m.m3u8?auth=testpub
-CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4m.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4o.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4o.m3u8?auth=testpub
-CCTV-4,http://173.208.234.146/live/cctv4.m3u8
+CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4m.m3u8?auth=test20251009
 CCTV-5,http://173.208.234.146/live/cctv5.m3u8
-CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8k.m3u8?auth=test20251009
 CCTV-8,http://173.208.234.146/live/cctv8.m3u8
+CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8k.m3u8?auth=test20251009
 CCTV-9,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.62:8112
 CCTV-10,http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.63:8116
 CCTV-11,http://173.208.234.146/live/cctv11.m3u8
 CCTV-12,http://home.amucn.net:8800/rtp/239.49.8.55:9822
 CCTV-13,http://173.208.234.146/live/cctv13.m3u8
+CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15.m3u8?auth=test20251009
 CCTV-16,http://192.187.124.34:81/live/cctv164k.m3u8
 CCTV-17,http://173.208.234.146/live/cctv17.m3u8
 CCTV-17,http://home.szjim.top:4000/udp/239.77.1.121:5146
 CCTV-4K,http://192.187.124.34:81/live/cctv4ka.m3u8
-CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793196000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d60d7f2bc8007621f780469dd42ac212&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 
 🔆卫视频道🔆,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖南卫视,http://173.208.234.146/live/hnws.m3u8
 湖南卫视,http://192.187.124.34:81/live/hnws4k.m3u8
 湖南卫视,http://45.192.97.170:8880/play/20.m3u8
-湖南卫视,http://173.208.234.146/live/hnws.m3u8
 海南卫视,http://8.138.7.223/tv/hainan.php?id=hnws
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-四川卫视,http://198.204.228.26/live/scws4k.m3u8
 四川卫视,http://192.187.124.34:81/live/scws4k.m3u8
+四川卫视,http://198.204.228.26/live/scws4k.m3u8
 
 🔆超清频道🔆,#genre#
 浙江卫视4K,http://192.187.124.34:81/live/zjws4k.m3u8
@@ -46,6 +46,7 @@ CCTV-4K,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m
 4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 🔆影视频道🔆,#genre#
+西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 西游记,http://nn.7x9d.cn/xz/虎牙.php?id=29465860
 刑事侦缉档案,http://129.211.14.102:22224/29465856/
 
@@ -59,7 +60,7 @@ CCTV世界地理,http://nas.lyfkai.cn:19999/rtp/239.69.1.91:10186
 茶频道,http://39.77.234.102:4002/rtp/239.253.254.143:8000
 茶频道,http://39.77.26.17:4002/rtp/239.253.254.143:8000
 快乐垂钓,http://39.77.234.102:4002/rtp/239.253.254.144:8000
-快乐垂钓,http://112.192.73.227:8484/rtp/239.0.0.40:5140
 快乐垂钓,http://112.192.73.115:8484/rtp/239.0.0.40:5140
+快乐垂钓,http://112.192.73.227:8484/rtp/239.0.0.40:5140
 快乐垂钓,http://106.59.2.209:55555/rtp/239.200.200.103:8400
 快乐垂钓,http://39.77.26.17:4002/rtp/239.253.254.144:8000
